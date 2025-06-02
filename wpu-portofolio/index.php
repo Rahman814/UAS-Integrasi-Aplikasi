@@ -82,9 +82,9 @@ if (isset($media['data']) && count($media['data']) >= 1) {
     <div class="jumbotron" id="home">
       <div class="container">
         <div class="text-center">
-          <img src="img/profile1.png" class="rounded-circle img-thumbnail">
+          <img src="img/rahman.jpeg" class="rounded-circle img-thumbnail">
           <h1 class="display-4">Aulia Rahman</h1>
-          <h3 class="lead">ProPlayer | Gammer | Youtuber</h3>
+          <h3 class="lead">ProPlayer | Gamer | Youtuber</h3>
         </div>
       </div>
     </div>
@@ -95,15 +95,15 @@ if (isset($media['data']) && count($media['data']) >= 1) {
       <div class="container">
         <div class="row mb-4">
           <div class="col text-center">
-            <h2>About</h2>
+            <h2>About Me</h2>
           </div>
         </div>
         <div class="row justify-content-center">
           <div class="col-md-5">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus, molestiae sunt doloribus error ullam expedita cumque blanditiis quas vero, qui, consectetur modi possimus. Consequuntur optio ad quae possimus, debitis earum.</p>
+            <p>Saya adalah mahasiswa UIN IMAM BONJOL tahun 2022, Disini saya mengambil jurusan sistem informasi dengan harapan bisa menjadi seorang programmer atau data analyis.</p>
           </div>
           <div class="col-md-5">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus, molestiae sunt doloribus error ullam expedita cumque blanditiis quas vero, qui, consectetur modi possimus. Consequuntur optio ad quae possimus, debitis earum.</p>
+            <p>Sebelumnya perkenalkan saya AULIA RAHMAN ,saya tinggal di pasaman barat , umur saya 22 tahun dan hobi saya adalah bermain game online serta berolahraga.</p>
           </div>
         </div>
       </div>
@@ -152,7 +152,7 @@ if (isset($media['data']) && count($media['data']) >= 1) {
 
             <div class="row mt-3 pb-3">
               <div class="col-md-6">
-                <img src="<?= $gambar; ?>" class="img-fluid rounded img-thumbnail">
+                <img src="<?= $gambar; ?>" width="100" class="img-fluid rounded img-thumbnail">
                </div>
               </div>
             </div>
